@@ -16,8 +16,6 @@ CofDelux, kullanıcı dostu arayüzü ve kolay kullanımı ile işletmelerin **h
 ## Ana ekran
 ![Home](https://raw.githubusercontent.com/onurgncode/Cofdelux_v01/refs/heads/main/Resimler/Ekran_Al%C4%B1nt%C4%B1s%C4%B12.PNG)
 
-## Sipariş Ekranı
-![Sipariş Ekranı](https://raw.githubusercontent.com/onurgncode/Cofdelux_v01/refs/heads/main/Resimler/Ekran_Al%C4%B1nt%C4%B1s%C4%B1.PNG)
 connect.cs > Sql servere bağlayınız 
 ```csharp
 SqlConnection baglan = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True;");
