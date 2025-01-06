@@ -1,0 +1,114 @@
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.exe.config
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.exe
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.AssemblyReference.cache
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.Properties.Resources.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.GenerateResource.cache
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.CoreCompileInputs.cache
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdelux.598AE77D.Up2Date
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.exe
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.frmLogin.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.frmSignup.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmHome.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.exe
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmSepet.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.exe.config
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.exe
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.exe
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.exe.config
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.AssemblyReference.cache
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmHome.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmSepet.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.frmLogin.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.frmSignup.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.Properties.Resources.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.GenerateResource.cache
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.CoreCompileInputs.cache
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdelux.598AE77D.Up2Date
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.exe
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUrun.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmStok.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmCari.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmVeriTkb.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmDestek.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmCari.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmDestek.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmStok.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUrun.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmVeriTkb.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.exe.config
+<<<<<<< HEAD
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmProfil.resources
+=======
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.exe.config
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.exe
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\cofdeluxProjectApp.pdb
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.exe
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.pdb
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\DAL.exe.config
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.AssemblyReference.cache
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmCari.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmDestek.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmHome.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmSepet.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmStok.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUrun.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmVeriTkb.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.frmLogin.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.frmSignup.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.Properties.Resources.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.GenerateResource.cache
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdelux.598AE77D.Up2Date
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.exe
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.pdb
+C:\Users\Nasır kırmızı\source\repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUye.resources
+>>>>>>> nMaster
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUye.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUrunList.olustur.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUrunList.sil.resources
+C:\Users\Nasır kırmızı\source\repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmProfil.resources
+C:\Users\Nasır kırmızı\source\repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUrunList.olustur.resources
+C:\Users\Nasır kırmızı\source\repos\cofdelux\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.frmUrunList.sil.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\itextsharp.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\itextsharp.xml
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\obj\Debug\cofdeluxProjectApp.formList.ayarlar.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\Newtonsoft.Json.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\Newtonsoft.Json.xml
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\Database1.mdf
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\Database1_log.ldf
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\EntityFramework.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\System.Data.SQLite.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\EntityFramework.xml
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\cofdeluxProjectApp\bin\Debug\System.Data.SQLite.xml

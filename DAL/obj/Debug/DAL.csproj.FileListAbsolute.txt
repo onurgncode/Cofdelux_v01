@@ -1,0 +1,32 @@
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.exe
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.exe
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.exe.config
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.exe
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.pdb
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.exe
+C:\cofdelux-master\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.exe.config
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.exe.config
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.exe
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\DAL.pdb
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.exe
+C:\Users\Nasır kırmızı\Source\Repos\cofdelux\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.pdb
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\EntityFramework.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\EntityFramework.xml
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\DAL\obj\Debug\DAL.csproj.Up2Date

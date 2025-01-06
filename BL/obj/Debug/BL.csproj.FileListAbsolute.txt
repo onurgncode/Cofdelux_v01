@@ -1,0 +1,4 @@
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\BL\obj\Debug\BL.Properties.Resources.resources
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\BL\obj\Debug\BL.csproj.GenerateResource.cache
+C:\cofdelux_ar-ge\cafdelux\cofdeluxProjectApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
