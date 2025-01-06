@@ -44,5 +44,5 @@ frmCari.cs > Güncel Kur bilgisi için api giriniz yorum satırını kaldırın�
 
 
 
-### **Bu program Nesne tabanlı programlama dersi için ödev projesidir.**
+### **Bu program Görsel programlama dersi için ödev projesidir.**
 ### **Bu programı geliştirirken yardımcı olan @YusufAIpp @NasirKrmzz Teşekkür ederim**
