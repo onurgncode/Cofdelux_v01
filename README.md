@@ -13,6 +13,17 @@ CofDelux, kullanıcı dostu arayüzü ve kolay kullanımı ile işletmelerin **h
 > Programı Kullanmadan önce detaylı okuyun !
 
 
+## Veri tabanı nasıl eklenir ?
+Sql Server kurulu olması gerekir ayrıca Sql Server Menagement Studio(SSMS) ile de kurulumu yapacağız
+[script.sql](https://github.com/onurgncode/Cofdelux_v01/blob/main/script.sql) dosyasını indirdikten sonra SSMS açıyoruz.
+Yeni bir database oluşturup aşağıdaki kısmı değiştiriyoruz
+![database](https://raw.githubusercontent.com/onurgncode/Cofdelux_v01/refs/heads/main/falan.PNG)
+## DB eklenmesi gerekenler
+- [x] Tables tablosuna | id:1 tableName:Masa1 | gibi 12 tane veri eklenmeli
+- [x] Category tablosuna | categoryName:Yemekler | gibi 4 veri eklenmeli
+- [x] İlk Girişte kayıt olarak giriş yapabilirsiniz
+
+
 ## Ana ekran
 ![Home](https://raw.githubusercontent.com/onurgncode/Cofdelux_v01/refs/heads/main/Resimler/Ekran_Al%C4%B1nt%C4%B1s%C4%B12.PNG)
 
